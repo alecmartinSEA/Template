@@ -121,3 +121,25 @@ li {
   -top: 90px;
 } 
 
+.left-content {
+    float: left;
+    width: 520px;
+   }
+.right-content {
+    float: right;
+    width: 380px;
+}
+#clear {
+	clear: both;
+}
+
+
+
+/* for the adopt squares
+.square {
+    float: left;
+    display: inline;
+    margin-right: 20px;
+    margin-top: 50px;
+}
+*/
